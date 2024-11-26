@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I’m Rey  
 
-<!--
-**reywilliams/reywilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer 💻 | Backend Developer 🏗️ | Cloud Infrastructure Enthusiast ☁️**  
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m a software engineer specializing in backend development, cloud infrastructure, and automation. I enjoy building robust systems with Go, simplifying infrastructure with Terraform, and creating tools that streamline complex workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+- **Backend Development**: Experienced in building scalable APIs, microservices, and serverless applications.  
+- **Infrastructure as Code (IaC)**: Skilled in Terraform and Terragrunt to provision and manage cloud environments.  
+- **Cloud Expertise**: Primarily working with AWS services, with a focus on automation and optimization. Former Azure Cloud Engineer @Microsoft.
+- **CI/CD Enthusiast**: Designing pipelines that improve efficiency and reliability across the development lifecycle.  
+
+---
+
+## 🌟 Key Projects  
+- 🛠 **[Terraform Plan Diff](https://github.com/ReyWilliams/tf-plan-diff)**: Quickly see your Terraform plan diffs within your GitHub Action pipelines. 
+- 🚀 **[GitHub Workflow Automation](https://github.com/reywilliams/deployment-webhook-go-lambda)**: A Lambda function in Go to manage and approve deployment requests using GitHub’s API - **stop** 🛑 waiting around for approvals!
+---
+
+## ⚙️ Tech Stack  
+- **Languages**: Go, Python, JavaScript.  
+- **Cloud**: AWS (Lambda, API Gateway, DynamoDB, Secrets Manager, etc.).  
+- **IaC Tools**: Terraform, Terragrunt.  
+- **Backend Frameworks**: Spring Boot (for now...) 
+
+---
+
+## 📫 Connect with Me  
+- **LinkedIn**: [linkedin.reywilliams.com](linkedin.reywilliams.com)  
+- **Portfolio/Resume**: [reywilliams.com](https://www.reywilliams.com)  
+
+---
+
+Feel free to explore my repositories and reach out for collaboration opportunities!

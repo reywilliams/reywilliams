@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I’m a software engineer specializing in backend 
 ---
 
 ## ⚙️ Tech Stack  
-- **Languages**: Go, Python, JavaScript.  
-- **Cloud**: AWS (Lambda, API Gateway, DynamoDB, Secrets Manager, etc.).  
+- **Languages**: Go, Python, Kotlin, Java  
+- **Cloud**: AWS (Lambda, API Gateway, DynamoDB, Secrets Manager, etc.), Azure (mostly storage, File Sync, etc)
 - **IaC Tools**: Terraform, Terragrunt.  
 - **Backend Frameworks**: Spring Boot (for now...) 
 

@@ -9,8 +9,9 @@ Welcome to my GitHub profile! I’m a software engineer specializing in backend 
 ## 🚀 About Me  
 - **Backend Development**: Experienced in building scalable APIs, microservices, and serverless applications.  
 - **Infrastructure as Code (IaC)**: Skilled in Terraform and Terragrunt to provision and manage cloud environments.  
-- **Cloud Expertise**: Primarily working with AWS services, with a focus on automation and optimization. Former Azure Cloud Engineer @Microsoft.
-- **CI/CD Enthusiast**: Designing pipelines that improve efficiency and reliability across the development lifecycle.  
+- **Cloud Expertise**: Primarily working with AWS services, focusing on automation and optimization. Former Azure Cloud Engineer @Microsoft.
+- **CI/CD Enthusiast**: Designing pipelines that improve efficiency and reliability across the development lifecycle.
+- **Avid Homelabber**: Currently getting into homelabbing! Currently running a Proxmox server that hosts a Kubernetes cluster!
 
 ---
 
@@ -21,8 +22,8 @@ Welcome to my GitHub profile! I’m a software engineer specializing in backend 
 
 ## ⚙️ Tech Stack  
 - **Languages**: Go, Python, Kotlin, Java  
-- **Cloud**: AWS (Lambda, API Gateway, DynamoDB, Secrets Manager, etc.), Azure (mostly storage, File Sync, etc)
-- **IaC Tools**: Terraform, Terragrunt.  
+- **Cloud**: AWS (Lambda, API Gateway, DynamoDB, Secrets Manager, etc.), Azure (mostly storage, Azure Files, File Sync, etc.)
+- **IaC Tools**: Terraform, Terragrunt, Packer
 - **Backend Frameworks**: Spring Boot (for now...) 
 
 ---
@@ -33,4 +34,4 @@ Welcome to my GitHub profile! I’m a software engineer specializing in backend 
 
 ---
 
-Feel free to explore my repositories and reach out for collaboration opportunities!
+Feel free to explore my repositories and reach out for any info!

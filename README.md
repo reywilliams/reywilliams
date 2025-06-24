@@ -1,17 +1,17 @@
 # 👋 Hi, I’m Rey  
 
-**Software Engineer 💻 | Backend Developer 🏗️ | Cloud Infrastructure Enthusiast ☁️**  
+** Software Engineer 💻 | Backend Developer 🏗️ | On-prem and Cloud Infrastructure Enthusiast ☁️ | Avid Homelabber 🏠 **  
 
-Welcome to my GitHub profile! I’m a software engineer specializing in backend development, cloud infrastructure, and automation. I enjoy building robust systems with Go, simplifying infrastructure with Terraform, and creating tools that streamline complex workflows.
+Welcome to my GitHub profile! I’m a software engineer specializing in backend development, cloud infrastructure, and automation. I enjoy building robust systems with Kotlin, simplifying infrastructure with Terraform, and creating tools that streamline complex workflows with Go.
 
 ---
 
-## 🚀 About Me  
+## About Me 🧔  
 - **Backend Development**: Experienced in building scalable APIs, microservices, and serverless applications.  
 - **Infrastructure as Code (IaC)**: Skilled in Terraform and Terragrunt to provision and manage cloud environments.  
 - **Cloud Expertise**: Primarily working with AWS services, focusing on automation and optimization. Former Azure Cloud Engineer @Microsoft.
 - **CI/CD Enthusiast**: Designing pipelines that improve efficiency and reliability across the development lifecycle.
-- **Avid Homelabber**: Currently getting into homelabbing! Currently running a Proxmox server that hosts a Kubernetes cluster!
+- **Avid Homelabber**: Currently maintain a homelab that includes a Proxmox server hosting a Kubernetes cluster, DNS server, Tailscale router, InfluxDB instance, and more!
 
 ---
 
@@ -21,10 +21,10 @@ Welcome to my GitHub profile! I’m a software engineer specializing in backend 
 ---
 
 ## ⚙️ Tech Stack  
-- **Languages**: Go, Python, Kotlin, Java  
-- **Cloud**: AWS (Lambda, API Gateway, DynamoDB, Secrets Manager, etc.), Azure (mostly storage, Azure Files, File Sync, etc.)
-- **IaC Tools**: Terraform, Terragrunt, Packer
-- **Backend Frameworks**: Spring Boot (for now...) 
+- **Languages**: Python, Kotlin, Java, Go  
+- **Cloud**: AWS (Lambda, API Gateway, Kinesis Data Streams, etc.), Azure (mostly storage, Azure Files, File Sync, Azure Virtual Machines, etc.)
+- **IaC Tools**: Terraform, Terragrunt, Packer, Ansible (in my homelab)
+- **Frameworks**: Spring Boot, React, ASP.NET MVC 
 
 ---
 

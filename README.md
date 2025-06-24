@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a software engineer specializing in backend 
 ## About Me 🧔  
 - **Backend Development**: Experienced in building scalable APIs, microservices, and serverless applications.  
 - **Infrastructure as Code (IaC)**: Skilled in Terraform and Terragrunt to provision and manage cloud environments.  
-- **Cloud Expertise**: Primarily working with AWS services, focusing on automation and optimization. Former Azure Cloud Engineer @Microsoft.
+- **Cloud Expertise**: Primarily working with AWS services, focusing on automation and optimization. Former Azure Cloud Engineer @Microsoft. 3x Azure Certified (Azure Admin, Solution Architect, AI Fdmntls.)
 - **CI/CD Enthusiast**: Designing pipelines that improve efficiency and reliability across the development lifecycle.
 - **Avid Homelabber**: Currently maintain a homelab that includes a Proxmox server hosting a Kubernetes cluster, DNS server, Tailscale router, InfluxDB instance, and more!
 

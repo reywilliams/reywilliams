@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I’m a software engineer specializing in backend 
 ---
 
 ## 📫 Connect with Me  
-- **LinkedIn**: [linkedin.reywilliams.com](linkedin.reywilliams.com)  
+- **LinkedIn**: [linkedin.reywilliams.com](https://linkedin.reywilliams.com)  
 - **Resume**: [resume.reywilliams.com](https://resume.reywilliams.com)  
 
 ---

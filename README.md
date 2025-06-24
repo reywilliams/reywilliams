@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rey  
 
-** Software Engineer 💻 | Backend Developer 🏗️ | On-prem and Cloud Infrastructure Enthusiast ☁️ | Avid Homelabber 🏠 **  
+**Software Engineer 💻 | Backend Developer 🏗️ | On-prem and Cloud Infrastructure Enthusiast ☁️ | Avid Homelabber 🏠**  
 
 Welcome to my GitHub profile! I’m a software engineer specializing in backend development, cloud infrastructure, and automation. I enjoy building robust systems with Kotlin, simplifying infrastructure with Terraform, and creating tools that streamline complex workflows with Go.
 
